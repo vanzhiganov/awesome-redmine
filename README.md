@@ -59,6 +59,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_drawio](https://www.redmine.org/plugins/redmine_drawio) - Macro plugin to embed draw.io diagrams into Redmine wiki pages.
 - [redmine_env_auth](https://github.com/Intera/redmine_env_auth) - Request environment authentication plugin for redmine.
 - [redmine_extended_watchers](https://github.com/maxrossello/redmine_extended_watchers) - Grant additional issue and project view permissions to watcher users.
+- [redmine-forgejo-webhook](https://github.com/vanzhiganov/redmine-forgejo-webhook) - This plugin allows Redmine to receive and process webhooks from Forgejo and Gitea repositories. It automatically updates Redmine issues based on commit messages and pull requests.
 - [redmine_git_hosting](https://github.com/redmine-git-hosting/redmine_git_hosting) - A Redmine plugin which makes configuring your own Git hosting easy.
 - [redmine_github_hook](https://github.com/koppen/redmine_github_hook) - Allow your Redmine installation to be notified when changes have been pushed to a Github repository.
 - [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration.
@@ -82,6 +83,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [sidebar_hide](https://github.com/AlphaNodes/sidebar_hide) - Adds simple hide button for sidebar of Redmine.
 - [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
 - [view_customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine.
+
 
 ### Inactive Plugins
 
