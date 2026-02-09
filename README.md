@@ -84,7 +84,6 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
 - [view_customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine.
 
-
 ### Inactive Plugins
 
 _Plugins, which are not working with the latest stable Redmine version or have not been updated in the last year._
